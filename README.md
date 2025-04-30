@@ -1,8 +1,8 @@
 # PillCare: A Responsible AI Agent for Daily Medication Monitoring
 
-**Category**: Best in Python / Responsible AI / Azure AI Agent Service  
+**Category**: Azure AI Agent Service  /  Best in Python / 
 **Team**: Alex Rozenberg  
-**Platform**: Azure AI Agents + Custom Vision + Cosmos DB + Twilio WhatsApp + Colab
+**Platforms**: Azure AI Agents + Custom Vision + Cosmos DB + Twilio WhatsApp + Colab
 
 ---
 ![PillCare Agent Illustration](PillAgentImg.png)
@@ -131,10 +131,44 @@ Then update your script call accordingly.
 
 ---
 
+## Future Improvements & Enhancements
+
+The PillCare agent lays a solid foundation for medication adherence monitoring. Future directions could expand capabilities and accessibility:
+
+### 🔄 Enhanced Interaction
+- Let users ask freeform health questions or request specific graphs on the fly (e.g. "Show me all days Advil was missed")
+- Use agent tool-calling or code interpreter to answer data queries in real time
+
+### 🧠 Smarter Reasoning & Reliability
+- Analyze long-term behavior trends and alert caregivers to changes
+- Cross-reference pill detection with time-of-day expectations (e.g. 2 doses/day)
+- Validate prescription expiration or refill needs automatically
+
+### 📲 Broader Input Channels
+- Upload daily pill photos via phone camera or IoT pillbox devices
+- Enable voice-based reporting (speech-to-text and text-to-speech)
+- Support additional languages beyond English and Romanian
+
+### 🚨 Expanded Escalation Options
+- Offer emergency trigger if user stops responding
+- Provide context-rich reports to caregivers (pill history, adherence trends)
+- Notify pharmacies or doctors when anomalies persist
+
+### 💊 Vision Improvements
+- Improve pill detection with more robust image model
+- Support classification of similar-looking pills using better training sets
+
+These enhancements would help scale PillCare into a deployable healthcare product while maintaining ethical and accessible AI practices.
+
+---
+
 ## License & Credits
 
 This submission is part of the Microsoft AI Agents Hackathon. Code and design by Alex Rozenberg. All services used are free-tier or under the Azure free trial program.
 
+Special thanks to:
+- Microsoft Azure and the AI Agents Hackathon team
+- ChatGPT by OpenAI – for collaborative design and development support
 ---
 
 ## Questions?
