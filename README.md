@@ -2,7 +2,7 @@
 
 **Category**: Azure AI Agent Service  /  Best in Python / 
 **Team**: Alex Rozenberg  
-**Platforms**: Azure AI Agents + Custom Vision + Cosmos DB + Twilio WhatsApp + Colab
+**Platforms**: Azure AI Agents + Custom Vision + Cosmos DB + Azure Blob + Twilio WhatsApp + Colab
 
 ---
 ![PillCare Agent Illustration](PillAgentImg.png)
@@ -158,7 +158,18 @@ The PillCare agent lays a solid foundation for medication adherence monitoring. 
 - Improve pill detection with more robust image model
 - Support classification of similar-looking pills using better training sets
 
+### 🌐 Transition to Production-Ready Azure Environment
+- Migrate infrastructure to Azure for scalable, secure deployment.
+- Adopt Azure tools like Key Vault and Kubernetes Service for reliability.
+
 These enhancements would help scale PillCare into a deployable healthcare product while maintaining ethical and accessible AI practices.
+
+---
+
+## Secrets Remark
+
+In the context of the hackathon, I chose to hardcode secrets (such as API keys) directly in my Python Google Colab notebook because it was the fastest and most practical approach. Given the time constraints, this method allowed me to focus on delivering results efficiently. Since the keys were temporary trial credentials, and I could regenerate them as needed, the security implications were minimized in this specific scenario.
+That said, I fully understand that hardcoding secrets is not a best practice in production environments or long-term projects due to the potential security risks. Best practices recommend avoiding hardcoding secrets and instead leveraging secure methods to manage them effectively
 
 ---
 
