@@ -5,6 +5,7 @@
 **Platform**: Azure AI Agents + Custom Vision + Cosmos DB + Twilio WhatsApp + Colab
 
 ---
+![PillCare Agent Illustration](PillAgentImg.png)
 
 ## Overview
 
