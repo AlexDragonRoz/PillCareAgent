@@ -1,7 +1,7 @@
 # PillCare: A Responsible AI Agent for Daily Medication Monitoring
 
 **Category**: Azure AI Agent Service  /  Best in Python / 
-**Team**: Alex Rozenberg  
+**Team**: Alex Rozenberg, PhD  
 **Platforms**: Azure AI Agents + Custom Vision + Cosmos DB + Azure Blob + Twilio WhatsApp + Colab
 
 ---
