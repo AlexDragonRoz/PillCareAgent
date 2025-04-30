@@ -119,5 +119,5 @@ This submission is part of the Microsoft AI Agents Hackathon. Code and design by
 
 ## Questions?
 
-Feel free to reach out to [alexrozenberg.ai@gmail.com](mailto\:alexrozenberg.ai@gmail.com) or connect via LinkedIn.
+Feel free to reach out to [rz.alex@gmail.com](mailto\:rz.alex@gmail.com) or connect via LinkedIn.
 
